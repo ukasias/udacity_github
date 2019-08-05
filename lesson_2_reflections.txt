@@ -1,0 +1,12 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	.git directory is made in the directory. meta-data must be made for containing files and tracking them.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	staging area doesn't show.
+	staging area can be checked only by the command "git status"
+
+	you can prepare your commit by checking the staging area. you can check your commit status through staing area.
+
+
