@@ -6,3 +6,11 @@ Why might you want to always pull changes manually rather than having Git automa
 
 	If I am working on a new feature, i need to work on long days and make lots of codes, but it is still logically functioning as a feature, so i want to commit it once. If the git automatically stay up-to-date to my remote repository then it would make a lot more commits than i want.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	forks: when i clone from the repository on github to the server on github which i can access.
+
+	clone: when i make a local repository from a repository on github or on local.
+
+	branch: when i make a another branch on local from a repository on local
+
