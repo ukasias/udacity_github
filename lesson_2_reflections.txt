@@ -9,4 +9,25 @@ How is the staging area different from the working directory and the repository?
 
 	you can prepare your commit by checking the staging area. you can check your commit status through staing area.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+	i can compare the working directory and the staging area to know what parts of codes has changed by using "git diff" command. By checking the changes, i can decide the changes are all for one logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	
+	Developing can't flow in a linear way. Sometimes it can flow to many branches.
+
+How do the diagrams help you visualize the branch structure?
+
+	?
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Merged version of codes.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	
+	automatic can make mistakes, but convenient.
+	manual get annoying, but give a chance to fix to correct.
+
 
