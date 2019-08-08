@@ -14,3 +14,8 @@ Describe the differences between forks, clones, and branches. When would you use
 
 	branch: when i make a another branch on local from a repository on local
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	making it easy to sync with the local branch?
+
+
